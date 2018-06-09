@@ -1,1 +1,0 @@
-This repository contains the wiki_scraper function which can be used to retrieve the data stored in <h1>, <h2>, <h3> and <p> tags as well as hyperlinks from Wikipedia for given urls. 
